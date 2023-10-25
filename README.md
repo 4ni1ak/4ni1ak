@@ -46,7 +46,7 @@
             alt="mysql" width="40" height="40" /> </a>
 </p>
 
-<p><img align="center"
+<p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=4ni1ak&show_icons=true&locale=en&layout=compact"
         alt="4ni1ak" /></p>
 
