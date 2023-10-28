@@ -50,7 +50,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=4ni1ak&show_icons=true&locale=en&layout=compact"
         alt="4ni1ak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4ni1ak&" alt="4ni1ak" /></p>
+
 
   <img align="center" src="https://komarev.com/ghpvc/?username=4ni1ak&color=blue" alt="GitHub Views" />
 
