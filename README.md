@@ -22,7 +22,7 @@
 <td width="33%">
 
 ### 📱 OTU Cep
-Official student app for OSTiM Technical University. Cafeteria, parking, library, social network, turnstile — all in one.
+Student app for OSTiM Technical University. Cafeteria, parking, library, social network, turnstile — all in one.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
