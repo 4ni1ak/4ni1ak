@@ -156,7 +156,7 @@ Decentralized property and lease management platform on blockchain. Transparency
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4ni1ak&bg_color=0D1117&color=39d353&line=39d353&point=39d353&area=true&area_color=26a641&hide_border=true&radius=6&custom_title=Contribution+Graph" width="100%"/>
+
 
 </div>
 
