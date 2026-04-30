@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&pause=10000&color=7C83FD&center=true&vCenter=true&repeat=false&width=800&height=80&lines=An%C4%B1l+Akp%C4%B1nar" alt="Anıl Akpınar" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&pause=1000&color=7C83FD&center=true&vCenter=true&width=800&height=40&lines=Kubernetes+%7C+PostgreSQL+HA+%7C+DevOps;5G+Networks+%7C+Cybersecurity+%7C+ML;Building+at+OST%C4%B0M+Technical+University;Flutter+%26+FastAPI+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&pause=1000&color=7C83FD&center=true&vCenter=true&width=800&height=40&lines=Kubernetes+%7C+PostgreSQL+HA+%7C+DevOps;5G+Networks+%7C+Cybersecurity+%7C+ML;Building+at+OSTiM+Technical+University;Flutter+%26+FastAPI+Developer" />
 
 [![Website](https://img.shields.io/badge/akpinar.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://akpinar.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akpinaranil/)
@@ -15,14 +15,14 @@
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="33%">
 
-### 📱 OTÜ Cep
-OSTİM Teknik Üniversitesi resmi öğrenci uygulaması. Yemekhane, park, kütüphane, sosyal ağ, turniket — tek çatı.
+### 📱 OTU Cep
+Official student app for OSTiM Technical University. Cafeteria, parking, library, social network, turnstile — all in one.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -32,7 +32,7 @@ OSTİM Teknik Üniversitesi resmi öğrenci uygulaması. Yemekhane, park, kütü
 <td width="33%">
 
 ### 🔐 rustface-pam
-IR kamera ile yüz tanıma tabanlı Linux PAM modülü. Rust ile yazılmış, sıfır Python bağımlılığı.
+Linux PAM module for face authentication via IR camera. Written in Rust, zero Python dependencies.
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -42,7 +42,7 @@ IR kamera ile yüz tanıma tabanlı Linux PAM modülü. Rust ile yazılmış, s�
 <td width="33%">
 
 ### ⚙️ Odoo K8s Automation
-Self-healing, secret rotation ve Zabbix izleme ile Kubernetes üzerinde otonom Odoo + PostgreSQL altyapısı.
+Autonomous Odoo & PostgreSQL infrastructure on Kubernetes with self-healing, secret rotation, and Zabbix monitoring.
 
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![K8s](https://img.shields.io/badge/-K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -54,7 +54,7 @@ Self-healing, secret rotation ve Zabbix izleme ile Kubernetes üzerinde otonom O
 <td width="33%">
 
 ### 🧠 EduNER-TR
-Türkçe eğitim verisi için NER sistemi. İsim, üniversite, bölüm varlık tanıma — %95 doğruluk.
+NER system for Turkish educational data. Identifies names, universities, and departments — 95% accuracy.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -64,7 +64,7 @@ Türkçe eğitim verisi için NER sistemi. İsim, üniversite, bölüm varlık t
 <td width="33%">
 
 ### 📅 OstimScheduler
-OSTİM Teknik öğrencileri için akıllı ders programı oluşturucu. 2000+ aktif kullanıcı.
+Smart class schedule generator for OSTiM Technical University students. 2000+ active users.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -73,7 +73,7 @@ OSTİM Teknik öğrencileri için akıllı ders programı oluşturucu. 2000+ akt
 <td width="33%">
 
 ### 🎁 GitWrap
-GitHub yıl sonu özeti ve analitik aracı. Git geçmişinden kapsamlı istatistik ve görselleştirme.
+GitHub year-end recap and analytics tool. Comprehensive stats and visualizations from your Git history.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -85,7 +85,7 @@ GitHub yıl sonu özeti ve analitik aracı. Git geçmişinden kapsamlı istatist
 <td width="33%">
 
 ### 📡 Free5GC 5G Lab
-Bağımsız 5G test ağı kurulumu. Core network bileşenleri, UERANSIM ile UE simülasyonu ve network slicing.
+Independent 5G test network. Core network components, UE simulation with UERANSIM, and network slicing.
 
 ![5G](https://img.shields.io/badge/-Free5GC-0055A4?style=flat&logoColor=white)
 ![UERANSIM](https://img.shields.io/badge/-UERANSIM-333333?style=flat&logoColor=white)
@@ -95,7 +95,7 @@ Bağımsız 5G test ağı kurulumu. Core network bileşenleri, UERANSIM ile UE s
 <td width="33%">
 
 ### 🗄️ PostgreSQL HA Cluster
-Patroni + etcd + HAProxy ile 30 saniye altında otomatik failover sağlayan yüksek erişilebilirlik PostgreSQL kümesi.
+High-availability PostgreSQL cluster with automatic failover under 30 seconds using Patroni, etcd, and HAProxy.
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Patroni](https://img.shields.io/badge/-Patroni-336791?style=flat&logoColor=white)
@@ -105,7 +105,7 @@ Patroni + etcd + HAProxy ile 30 saniye altında otomatik failover sağlayan yük
 <td width="33%">
 
 ### ⛓️ PropChain
-Blockchain tabanlı merkezi olmayan mülk ve kira yönetim platformu. Şeffaflık ve gizlilik odaklı.
+Decentralized property and lease management platform on blockchain. Transparency and privacy first.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=ethereum&logoColor=white)
@@ -121,7 +121,7 @@ Blockchain tabanlı merkezi olmayan mülk ve kira yönetim platformu. Şeffaflı
 
 <div align="center">
 
-| Kategori | Teknolojiler |
+| Category | Technologies |
 |----------|-------------|
 | **Mobile & Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 | **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) |
@@ -135,7 +135,7 @@ Blockchain tabanlı merkezi olmayan mülk ve kira yönetim platformu. Şeffaflı
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
 <div align="center">
 <table>
@@ -154,7 +154,11 @@ Blockchain tabanlı merkezi olmayan mülk ve kira yönetim platformu. Şeffaflı
 </table>
 </div>
 
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4ni1ak&bg_color=0D1117&color=39d353&line=39d353&point=39d353&area=true&area_color=26a641&hide_border=true&radius=6&custom_title=Contribution+Graph" width="100%"/>
+
+</div>
 
 ---
 
